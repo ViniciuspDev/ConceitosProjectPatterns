@@ -1,0 +1,4 @@
+package subsistema.cep;
+
+public class CepApi {
+}
