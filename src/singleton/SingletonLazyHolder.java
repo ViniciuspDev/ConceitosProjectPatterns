@@ -1,3 +1,5 @@
+package singleton;
+
 public class SingletonLazyHolder {
 
     private static class InstanceHolder{

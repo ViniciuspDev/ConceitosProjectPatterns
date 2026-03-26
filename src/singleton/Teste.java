@@ -1,3 +1,5 @@
+package singleton;
+
 public class Teste {
     public static void main(String[] args) {
 
